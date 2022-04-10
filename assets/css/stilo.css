@@ -1,0 +1,25 @@
+#quienes-somos{
+    font-size: "roboto";
+    color: white;
+    padding-bottom: 5rem;
+    background: black;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+#card-quienessomos{
+    background:black;
+    color: white;
+    line-height:2;
+}
+#Contacto{
+    padding-left: 7rem;
+    padding-right: 7rem;
+}
+#redes{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+header .navbar {
+    background-color: transparent ;
+  }
