@@ -16,3 +16,12 @@ $(document).ready(function () {
     )
   })
 })
+
+
+  $(window).scroll(function(){
+    if($("#menu").offset().top >150){
+       $("#menu").addClass("bg-inverse");
+    }else{
+       $("#menu").removeClass("bg-inverse");
+    }
+ });

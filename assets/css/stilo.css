@@ -32,3 +32,11 @@ header .navbar {
    text-decoration: none;
    
 }
+nav{
+    background-color: transparent;
+    transition: all is ease;
+}
+.bg-inverse{
+    background-color:#17bdd1;
+    
+}
