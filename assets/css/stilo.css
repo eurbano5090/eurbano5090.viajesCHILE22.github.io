@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: auto !important;
+}
+
 #quienes-somos{
     font-size: "roboto";
     color: white;
@@ -23,3 +27,8 @@
 header .navbar {
     background-color: transparent ;
   }
+#redes a{
+   color:white;
+   text-decoration: none;
+   
+}
